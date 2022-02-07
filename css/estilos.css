@@ -3,3 +3,21 @@ body{
 	text-align: center;
 	font-family: 'Courier New', Courier, monospace;
 }
+
+.contenedor {
+	color: deepskyblue;
+	text-align: center;
+	background-color: rgb(0, 110, 255);
+	font-size: 25px;
+}
+
+#post{
+	text-align: left;
+	width: 1200px;
+	height: 200px;
+	border: 1px solid;
+	border-color: black;
+	margin: auto;
+	padding-right: 20px;
+	padding-left: 20px;
+}
